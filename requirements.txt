@@ -1,0 +1,8 @@
+gradio>=4.0
+numpy
+torch
+sentence_transformers
+tqdm
+llama_cpp_python
+transformers
+huggingface_hub
